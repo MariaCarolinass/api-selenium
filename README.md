@@ -2,6 +2,11 @@
 
 Este projeto automatiza a coleta de PDFs do **Diário Oficial de Natal (DOM)**, faz upload para serviços de armazenamento externo e armazena informações em um **banco de dados PostgreSQL**, disponibilizando uma **API FastAPI** para consulta.
 
+**Acesse:** 
+
+- https://automacao-selenium.onrender.com/
+- https://automacao-selenium.onrender.com/files/?month=7&year=2025 (consultar um mês/ano específico)
+
 ## 🧩 Estrutura do Projeto
 
 ```
