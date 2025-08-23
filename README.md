@@ -114,7 +114,6 @@ docker-compose exec -e PYTHONPATH=/app api python -m scripts.run
 - **Requests** – Para fallback de download de PDFs e upload para serviços externos.
 - **Docker** – Containerização da aplicação para facilitar deploy.
 - **Docker Compose** – Orquestração do serviço API e banco de dados em ambiente local.
-- **Railway** – Plataforma de cloud para deploy da API e banco de dados.
 - **python-dotenv** – Gerenciamento de variáveis de ambiente.
 - **Xvfb** – Execução headless do Selenium em containers Linux.
 
